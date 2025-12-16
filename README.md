@@ -2,7 +2,7 @@
 
 An interactive data visualization project analyzing 10 years of NFL defensive coverage trends (2015-2024).
 
-**View Here:** https://jisungl.github.io/Are-Two-High-Safeties-Ruining-Football-/
+**View Here:** https://jisungl.github.io/Are-Two-High-Safeties-Ruining-Football/
 
 ## Overview
 
