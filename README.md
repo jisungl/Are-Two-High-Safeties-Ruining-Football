@@ -6,7 +6,7 @@ An interactive data visualization project analyzing 10 years of NFL defensive co
 
 ## Overview
 
-This project challenges the popular narrative that two-high safety defenses are limiting explosive offensive plays in the NFL. Through interactive visualizations, we reveal that defenses aren't actually running more two-high coverages, but rather disguising them better through post-snap rotations. This is an educational article covering relatively complex football concepts, written for an audience that may not necessarily be familiar with football.
+This article challenges the popular narrative that two-high safety defenses are limiting explosive offensive plays in the NFL. Through interactive visualizations, we reveal that defenses aren't actually running more two-high coverages, but rather disguising them better through post-snap rotations. This educational article covers relatively complex football concepts, written for an audience that may not be familiar with the sport.
 
 ## Technologies
 
